@@ -27,6 +27,7 @@ class GradeCalculator:
             project_part = grades.project * weights.project
             final_part = grades.final * weights.final
             course_grade = quizzes_part + midterm_part + project_part + final_part
+            # i think here the function should be called
             return course_grade
         
         
