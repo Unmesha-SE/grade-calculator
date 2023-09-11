@@ -4,7 +4,7 @@ class Grades:
     """
     Stores all individual class grades.
     """
-    
+    #This is a test comment for git
     def __init__(self, quiz_1=None, quiz_2=None, midterm=None, project=None, final=None) -> None:
         """
         This constructor declares globale variables
