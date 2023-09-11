@@ -90,6 +90,6 @@ class GradeCalculator:
         The cutoffs for letter grades can be found in the introductory slides
         and in the syllabus.
         """
-        
+        print('Just to check if this is getting called')
         return 'A'
     
